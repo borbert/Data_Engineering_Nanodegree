@@ -23,3 +23,5 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 5. [Data pipelines with Airflow](https://github.com/borbert/Data_Engineering_Nanodegree/tree/master/data_pipeline_with_airflow/home/airflow#sparkify-analytics-data-pipeline). This data pipeline was completed to further automate the ETL pipelines and monitoring of the data warehouses of Sparkify.
 
 # [Capstone Project](https://github.com/borbert/Data_Engineering_Nanodegree/tree/master/capstone_project#data-engineering-capstone-project)
+
+This capstone project was a chance to combine all of the data engineering learnings of this program into one project.
